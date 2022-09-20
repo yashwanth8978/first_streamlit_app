@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import snowflkae connector
+import snowflkae.connector
 from urlib.error import URLError
 
 
